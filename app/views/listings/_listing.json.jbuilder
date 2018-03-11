@@ -1,0 +1,10 @@
+json.id listing.id
+json.neighborhood listing.neighborhood
+json.address listing.address
+json.price listing.price
+json.bedrooms listing.bedrooms
+json.baths listing.baths
+json.sq_footage listing.sq_footage
+json.style listing.style
+json.description listing.description
+json.agent listing.agent

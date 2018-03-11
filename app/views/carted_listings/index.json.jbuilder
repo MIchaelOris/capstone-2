@@ -1,0 +1,1 @@
+json.array! @carted_listings, partial: 'carted_listing', as: :carted_listing
